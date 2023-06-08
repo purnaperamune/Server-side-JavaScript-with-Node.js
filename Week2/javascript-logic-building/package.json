@@ -1,16 +1,16 @@
 {
-  "name": "bytelearning-js-exercise-14",
+  "name": "javascript-logic-building",
   "version": "1.0.0",
   "description": "Working with Promises in JavaScript",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "mocha --watch"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab-cts.stackroute.in/Somsubhra.m/bytelearning-js-exercise-14"
+    "url": "https://github.com/cssamLabs/Coursera-ServerSide-Javascript-with-NodeJS/blob/Week-2/README.md"
   },
-  "author": "Somsubhra Mukherjee",
+  "author": "Chandima Samaraweera",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
